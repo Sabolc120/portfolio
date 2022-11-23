@@ -1,0 +1,126 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+#firstImpression{
+    padding-bottom:4%;
+    background-color: #002B5B;
+}
+.opening-image{
+    padding-top:6%;
+    width:40%;
+    border-radius:5%;
+    transform:rotate(5deg);
+    position:absolute
+}
+.opening-title{
+    padding-top:12%;
+    color:white;
+    line-height:1.7;
+    font-size: 3.2rem;
+    font-family: 'Jost', sans-serif;
+}
+.download-button{
+    margin: 5% 3% 5% 0;
+    color:#8FE3CF;
+}
+@media (max-width: 1020px){
+.opening-image{
+    transform:rotate(0deg);
+}
+}
+.mainTitle{
+    margin-top:5%;
+    font-family: 'Montserrat', sans-serif;
+    text-align:center;
+    margin-bottom:3%;
+}
+.center{
+    margin-top:1%;
+    text-align:center;
+    font-family: 'Montserrat', sans-serif;
+}
+.desc{
+    text-align:left;
+    font-family: 'Montserrat', sans-serif;
+    font-size:1rem;
+    line-height: 1.5;
+    margin-top:5%;
+    margin-right:8%;
+}
+.descTwo{
+    text-align:left;
+    font-family: 'Montserrat', sans-serif;
+    font-size:1rem;
+    line-height: 1.5;
+    margin-top:5%;
+}
+.title{
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom:3%;
+}
+.centerize{
+    text-align:center;
+    margin-bottom:5%;
+    padding-bottom:3%;
+}
+.col-sm-5{
+    transition: transform .2s;
+}
+.col-sm-5:hover{
+    transition: all 0.15s linear;
+    background-color:#EEEEEE;
+
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.1); 
+}
+a{
+    text-decoration: none;
+}
+.effect{
+    transition: transform .2s;
+}
+.effect:hover{
+    transition: all 0.10s linear;
+    background-color:#EEEEEE;
+    border-radius: 5%;
+    margin-top:3%;
+
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.1); 
+}
+.myBg{
+    background-color: #002B5B;
+    color:#8FE3CF;
+}
+.alt{
+    text-align:center;
+    font-size:1.5rem;
+}
+.marg{
+    margin-top:7%;
+    margin-bottom:5%;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+li{
+    list-style: none;
+}
+a{
+    color: #8FE3CF;
+}
+a:hover{
+    color: #002B5B;
+}
+.pfp{
+    width:15%;
+    border-radius:50%;
+    margin-top:5%;
+    margin-left:40%;
+}
+.motto{
+    color:white;
+    margin-top:20%;
+}
