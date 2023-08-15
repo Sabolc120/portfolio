@@ -1,0 +1,79 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+.navbar{
+    background-color: #002B5B;
+}
+.nav-item{
+    color:white;
+    margin-right:10%;
+    margin-left:10%;
+}
+.nav-link{
+    color:white !important;
+    font-size:1.3rem;
+}
+.navbar-brand{
+    font-size:2rem;
+    color:white !important;
+}
+h1{
+    
+    text-align:center;
+
+}
+.customRow{
+    margin-top:5%;
+    margin-bottom:10%;
+}
+h2{
+    text-align:center;
+    margin-bottom:2%;
+}
+.desc{
+    text-align:center;
+    margin-bottom:3%;
+}
+ul{
+    list-style: none;
+}
+li{
+    margin-top:1%;
+    margin-bottom:1%;
+}
+.boxing{
+    background-color:gray;
+    border:20px solid white;
+    color:white;
+    border-radius:10%;
+}
+.rumipic{
+    width:98%;
+}
+.myBg{
+    background-color: #002B5B;
+color:#8FE3CF;
+}
+.endwords{
+    font-size:1.2rem;
+    text-align:center;
+    margin-bottom:3%;
+}
+.title{
+    margin-top:3%;
+}
+a:link {
+    color:white;
+}
+
+a:visited {
+    color:white;
+}
+
+a:hover {
+    color:white;
+}
+
+a:active {
+    color:white;
+}

@@ -1,0 +1,30 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    margin-top:4%;
+    margin-bottom:3%;
+}
+.navbar{
+    background-color: #002B5B;
+}
+.nav-item{
+    color:white;
+    margin-right:10%;
+    margin-left:10%;
+}
+.nav-link{
+    color:white !important;
+    font-size:1.3rem;
+}
+.navbar-brand{
+    font-size:2rem;
+    color:white !important;
+}
+.myBg{
+    background-color: #002B5B;
+color:#8FE3CF;
+}
+.pic{
+    margin-left:30%;
+}
